@@ -134,7 +134,7 @@
     #greeting {
         margin-top: 30px;
         height: 635px;
-        background-image: url("/img/main.jpeg");
+        background-image: url("./img/main.jpeg");
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -246,11 +246,11 @@
     }
     
     .img1 {
-        background-image: url('/img/function1.jpeg');
+        background-image: url('./img/function1.jpeg');
     }
     
     .img2 {
-        background-image: url('/img/function2.jpeg');
+        background-image: url('./img/function2.jpeg');
     }
     
     .img3 {
@@ -258,7 +258,7 @@
     }
     
     .img4 {
-        background-image: url('/img/function4.jpeg');
+        background-image: url('./img/function4.jpeg');
     }
     
     .slider-nav {
@@ -632,7 +632,7 @@
     }
     
     #formImage {
-        background-image: url('/img/form.png');
+        background-image: url('./img/form.png');
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
